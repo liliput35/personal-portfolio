@@ -488,8 +488,10 @@ footer p {
 display: block;  }
   
 
-  .skills .container {
+   .skills .container {
       grid-template-columns: 80%;
+      margin-top: unset;
+      align-items: center;
   }
 
   .skills {
